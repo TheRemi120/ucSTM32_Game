@@ -30,10 +30,5 @@ Modification de la librairie d'affichage des images .BMP pour implémenter la ge
 ## Utilisation
 1. Mettez les fichiers audio sur la carte SD présente dans le dossier Ressources du projet.
 2. Insérez la carte SD dans le lecteur de la carte STM32.
-3. Branchez un périphérique audio pour profiter de l'expérience sonore.
+3. Branchez un périphérique audio pour pouvoir écouter de la musique lors de votre session de jeu.
 4. Utilisez votre smartphone android pour déplacer la voiture sur la piste de course.
-# uc_STM32_Game
-# uc_STM32_Game
-# uc_STM32_Game
-# uc_STM32_Game
-# ucSTM32_Game
